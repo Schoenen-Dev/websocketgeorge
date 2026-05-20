@@ -90,8 +90,12 @@ function addLog(botId, line, level = "info") {
     level,
   };
 
-  proc.logs.push(entry);
+ proc.logs.push(entry);
   if (proc.logs.length > MAX_LOGS) proc.logs.shift();
+
+  // Print to Render server console (visible in Render Logs tab)
+  const time = new Date(entry.ts).toLocaleTimeString("en-US", { hour12: false });
+  console.log(`[${botId}] ${time} ${line.trim()}`);
 
   // Write to file log
   const logFile = path.join(__dirname, "../logs", `${botId}.log`);
