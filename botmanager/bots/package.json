@@ -1,0 +1,11 @@
+{
+  "name": "bots",
+  "version": "1.0.0",
+  "description": "Selenium bot scripts",
+  "dependencies": {
+    "selenium-webdriver": "^4.18.1"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

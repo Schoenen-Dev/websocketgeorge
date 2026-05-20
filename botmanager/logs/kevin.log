@@ -1,0 +1,48 @@
+[2026-05-20T06:03:04.087Z] 🚀 Bot process started (PID: 16572)
+[2026-05-20T06:03:04.254Z] node:internal/modules/cjs/loader:1450
+[2026-05-20T06:03:04.256Z] throw err;
+[2026-05-20T06:03:04.257Z] ^
+[2026-05-20T06:03:04.258Z] Error: Cannot find module 'selenium-webdriver'
+[2026-05-20T06:03:04.260Z] Require stack:
+[2026-05-20T06:03:04.261Z] - D:\night_ui\websocketjeorgekavin\websocketallbot\botmanager\bots\kevin.js
+[2026-05-20T06:03:04.262Z] at Module._resolveFilename (node:internal/modules/cjs/loader:1447:15)
+[2026-05-20T06:03:04.263Z] at defaultResolveImpl (node:internal/modules/cjs/loader:1058:19)
+[2026-05-20T06:03:04.264Z] at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1063:22)
+[2026-05-20T06:03:04.265Z] at Module._load (node:internal/modules/cjs/loader:1233:25)
+[2026-05-20T06:03:04.267Z] at TracingChannel.traceSync (node:diagnostics_channel:328:14)
+[2026-05-20T06:03:04.269Z] at wrapModuleLoad (node:internal/modules/cjs/loader:245:24)
+[2026-05-20T06:03:04.270Z] at Module.require (node:internal/modules/cjs/loader:1547:12)
+[2026-05-20T06:03:04.272Z] at require (node:internal/modules/helpers:152:16)
+[2026-05-20T06:03:04.273Z] at Object.<anonymous> (D:\night_ui\websocketjeorgekavin\websocketallbot\botmanager\bots\kevin.js:5:32)
+[2026-05-20T06:03:04.274Z] at Module._compile (node:internal/modules/cjs/loader:1803:14) {
+[2026-05-20T06:03:04.275Z] code: 'MODULE_NOT_FOUND',
+[2026-05-20T06:03:04.275Z] requireStack: [
+[2026-05-20T06:03:04.276Z] 'D:\\night_ui\\websocketjeorgekavin\\websocketallbot\\botmanager\\bots\\kevin.js'
+[2026-05-20T06:03:04.277Z] ]
+[2026-05-20T06:03:04.278Z] }
+[2026-05-20T06:03:04.278Z] Node.js v25.5.0
+[2026-05-20T06:03:04.282Z] 🔴 Bot exited (code 1)
+[2026-05-20T06:03:31.469Z] 🚀 Bot process started (PID: 6508)
+[2026-05-20T06:03:31.577Z] node:internal/modules/cjs/loader:1450
+[2026-05-20T06:03:31.578Z] throw err;
+[2026-05-20T06:03:31.579Z] ^
+[2026-05-20T06:03:31.580Z] Error: Cannot find module 'selenium-webdriver'
+[2026-05-20T06:03:31.582Z] Require stack:
+[2026-05-20T06:03:31.583Z] - D:\night_ui\websocketjeorgekavin\websocketallbot\botmanager\bots\kevin.js
+[2026-05-20T06:03:31.584Z] at Module._resolveFilename (node:internal/modules/cjs/loader:1447:15)
+[2026-05-20T06:03:31.585Z] at defaultResolveImpl (node:internal/modules/cjs/loader:1058:19)
+[2026-05-20T06:03:31.587Z] at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1063:22)
+[2026-05-20T06:03:31.588Z] at Module._load (node:internal/modules/cjs/loader:1233:25)
+[2026-05-20T06:03:31.590Z] at TracingChannel.traceSync (node:diagnostics_channel:328:14)
+[2026-05-20T06:03:31.591Z] at wrapModuleLoad (node:internal/modules/cjs/loader:245:24)
+[2026-05-20T06:03:31.593Z] at Module.require (node:internal/modules/cjs/loader:1547:12)
+[2026-05-20T06:03:31.594Z] at require (node:internal/modules/helpers:152:16)
+[2026-05-20T06:03:31.595Z] at Object.<anonymous> (D:\night_ui\websocketjeorgekavin\websocketallbot\botmanager\bots\kevin.js:5:32)
+[2026-05-20T06:03:31.596Z] at Module._compile (node:internal/modules/cjs/loader:1803:14) {
+[2026-05-20T06:03:31.598Z] code: 'MODULE_NOT_FOUND',
+[2026-05-20T06:03:31.599Z] requireStack: [
+[2026-05-20T06:03:31.601Z] 'D:\\night_ui\\websocketjeorgekavin\\websocketallbot\\botmanager\\bots\\kevin.js'
+[2026-05-20T06:03:31.603Z] ]
+[2026-05-20T06:03:31.605Z] }
+[2026-05-20T06:03:31.606Z] Node.js v25.5.0
+[2026-05-20T06:03:31.608Z] 🔴 Bot exited (code 1)
